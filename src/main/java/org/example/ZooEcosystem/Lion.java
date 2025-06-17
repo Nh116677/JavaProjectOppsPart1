@@ -1,4 +1,4 @@
-package org.example.ZooEcosystem.ZooInstruction;
+package org.example.ZooEcosystem;
 
 public class Lion extends Mammal {
     public Lion(String name, int age) {

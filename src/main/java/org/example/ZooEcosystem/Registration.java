@@ -1,4 +1,4 @@
-package org.example.ZooEcosystem.ZooInstruction;
+package org.example.ZooEcosystem;
 
 public class Registration {
     private String email;

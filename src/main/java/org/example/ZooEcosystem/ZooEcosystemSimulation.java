@@ -1,4 +1,4 @@
-package org.example.ZooEcosystem.ZooInstruction;
+package org.example.ZooEcosystem;
 
 public class ZooEcosystemSimulation {
     public static void main(String[] args) {

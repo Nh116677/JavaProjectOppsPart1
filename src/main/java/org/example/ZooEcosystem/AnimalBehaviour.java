@@ -1,4 +1,4 @@
-package org.example.ZooEcosystem.ZooInstruction;
+package org.example.ZooEcosystem;
 
 public interface AnimalBehaviour {
     //Interface AnimalBehavior: Defines methods eat(), sleep(), and makeSound().

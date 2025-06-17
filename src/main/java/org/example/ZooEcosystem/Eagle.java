@@ -1,6 +1,4 @@
-package org.example.ZooEcosystem.ZooInstruction;
-
-import javax.xml.namespace.QName;
+package org.example.ZooEcosystem;
 
 public class Eagle extends Bird {
 

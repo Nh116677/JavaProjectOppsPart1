@@ -1,4 +1,4 @@
-package org.example.ZooEcosystem.ZooInstruction;
+package org.example.ZooEcosystem;
 
 public abstract class Animal implements AnimalBehaviour {
     //Abstract Class Animal: Implements AnimalBehavior.
