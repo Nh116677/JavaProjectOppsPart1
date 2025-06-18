@@ -11,8 +11,8 @@ public class SwapTwoString {
         firstName = firstName + lastName;
         lastName = firstName.substring(0,firstName.length() - lastName.length());
         firstName = firstName.substring(lastName.length());
-        System.out.println("First Name: " + firstName);
-        System.out.println("Last Name: " + lastName);
+        System.out.println("First Name: " + firstName);//Nguyen
+        System.out.println("Last Name: " + lastName);//Nhu
 
     }
 }
