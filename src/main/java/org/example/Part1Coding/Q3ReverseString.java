@@ -1,6 +1,6 @@
 package org.example.Part1Coding;
 
-public class ReverseString {
+public class Q3ReverseString {
 
 
     //3. Reverse a String: Write a function to reverse a given string. For example, given the input "Hello", the output should be "olleH".

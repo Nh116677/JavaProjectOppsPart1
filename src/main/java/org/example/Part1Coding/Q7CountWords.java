@@ -1,6 +1,6 @@
 package org.example.Part1Coding;
 
-public class CountWords {
+public class Q7CountWords {
 
     //7. Count the Number of Words in a String:
     // Write a function to count the number of words in a given string.

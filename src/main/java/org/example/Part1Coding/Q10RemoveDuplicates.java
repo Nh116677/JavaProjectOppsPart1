@@ -4,7 +4,9 @@ import java.util.ArrayList;
 import java.util.LinkedHashSet;
 import java.util.List;
 
-public class RemoveDuplicates {
+public class Q10RemoveDuplicates {
+
+
     //10. How can you remove all duplicates from ArrayList?
 
     public static void main(String[] args) {

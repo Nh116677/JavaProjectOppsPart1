@@ -1,9 +1,10 @@
 package org.example.Part1Coding;
 
-public class alphaCharacters {
+public class Q2alphaCharacters {
 
     public static int NumberOfAlphaCharacter(String input) {
-        //2. Find out how many alpha characters are present in a string?
+        //3. Reverse a String: Write a function to reverse a given string. For example, given the input "Hello", the output should be "olleH".
+
 
         int count = 0;
         for (char character : input.toCharArray()) {

@@ -1,6 +1,6 @@
 package org.example.Part1Coding;
 
-public class VowelsCount {
+public class Q6VowelsCount {
 
     //6. Create a method to count how many vowels are present in a string “documentation”
     public static void main(String[] args) {

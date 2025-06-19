@@ -3,7 +3,7 @@ package org.example.Part1Coding;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-public class FirstNonRepeatingCharacter {
+public class Q9FirstNonRepeatingCharacter {
     //9. Find the First Non-Repeating Character in a String:
     // Given a string, find and return the first non-repeating character.
     // For example, in the string "abracadabra", the first non-repeating character is 'c'.
